@@ -43,3 +43,8 @@ main{
 .li-space>li{
     margin: 0.25rem 0;
 }
+
+.filename{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
